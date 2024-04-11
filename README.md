@@ -27,6 +27,12 @@ The application consists of a user-friendly interface where users can:
    - Utilize ngrok to initiate a tunnel for local development and testing
    - Manage movie data and reviews in MongoDB, ensuring data consistency and integrity
 
+## Screenshots:
+
+![alt text](screenshot2.png)
+
+![alt text](screenshot3.png)
+
 ## Libraries/Tech Stacks Used:
 
 - **Backend:** Java, Spring Boot, MongoDB
